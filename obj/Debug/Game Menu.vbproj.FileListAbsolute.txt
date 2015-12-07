@@ -1,0 +1,26 @@
+D:\Users\Rusty\AppData\Local\Temporary Projects\Game Menu\bin\Debug\Game Menu.exe
+D:\Users\Rusty\AppData\Local\Temporary Projects\Game Menu\bin\Debug\Game Menu.pdb
+D:\Users\Rusty\AppData\Local\Temporary Projects\Game Menu\bin\Debug\Game Menu.xml
+D:\Users\Rusty\AppData\Local\Temporary Projects\Game Menu\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Rusty\AppData\Local\Temporary Projects\Game Menu\obj\Debug\Game_Menu.Form1.resources
+D:\Users\Rusty\AppData\Local\Temporary Projects\Game Menu\obj\Debug\Game_Menu.Resources.resources
+D:\Users\Rusty\AppData\Local\Temporary Projects\Game Menu\obj\Debug\Game Menu.vbproj.GenerateResource.Cache
+D:\Users\Rusty\AppData\Local\Temporary Projects\Game Menu\obj\Debug\Game Menu.exe
+D:\Users\Rusty\AppData\Local\Temporary Projects\Game Menu\obj\Debug\Game Menu.xml
+D:\Users\Rusty\AppData\Local\Temporary Projects\Game Menu\obj\Debug\Game Menu.pdb
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\obj\Debug\Game Menu.vbproj.GenerateResource.Cache
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\bin\Debug\Game Menu.exe
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\bin\Debug\Game Menu.pdb
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\bin\Debug\Game Menu.xml
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\obj\Debug\game_menu.Credits.resources
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\obj\Debug\game_menu.frmMain.resources
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\obj\Debug\game_menu.Resources.resources
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\obj\Debug\Game Menu.exe
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\obj\Debug\Game Menu.xml
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\obj\Debug\Game Menu.pdb
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\bin\Debug\Interop.WMPLib.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\obj\Debug\Interop.WMPLib.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\obj\Debug\AxInterop.WMPLib.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Game Menu\Game Menu\obj\Debug\Game Menu.vbproj.ResolveComReference.cache
